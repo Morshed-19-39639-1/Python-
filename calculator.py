@@ -1,10 +1,10 @@
 # calculator #
-num1 = input("Enter first number : ")
+num1 = input("Enter first number  : ")
 num2 = input("Enter second number : ")
 first = float(num1)
 second = float(num2)
 print("----press keys for operator (+,-,*,/,%,//,** )----------")
-operator = input("Enter operator : ")
+operator = input("Enter operator  : ")
 
 if operator == "+":
    print("The sum is : ",first + second)
