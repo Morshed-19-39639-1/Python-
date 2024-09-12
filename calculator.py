@@ -4,7 +4,7 @@ num2 = input("Enter second number : ")
 first = float(num1)
 second = float(num2)
       
-       print("----press keys for operator (+,-,*,/,%,//,** )----------")
+print("----press keys for operator (+,-,*,/,%,//,** )----------")
 
 operator = input("Enter operator  : ")
 
